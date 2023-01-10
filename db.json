@@ -1,7 +1,13 @@
 {
-   "user":{
+   "user":[
+   {
       "id":1,
       "firstName":"Sheik",
       "lastName":"Mydeen"
-   }
+   },
+   {
+      "id":2,
+      "firstName":"Satham",
+      "lastName":"Hussain"
+   }]
 }
